@@ -1,0 +1,29 @@
+site_name: ERPNext Store Documentation
+theme:
+  name: material
+
+plugins:
+  - glightbox
+
+nav:
+  - Introduction: index.md
+  - Admin Guide:
+      - Overview: admin/overview.md
+      - Setup: admin/setup.md
+      - Daily Operations: admin/daily_ops.md
+  - Cashier Guide:
+      - Getting Started: cashier/getting_started.md
+      - Sales: cashier/sales.md
+      - Returns: cashier/return.md
+      - FAQ: cashier/faq.md
+
+
+  - Warehouse Guide:
+      - Getting Started: warehouse-worker/getting_started.md
+      - Sales: warehouse-worker/sales.md
+      - Stock: warehouse-worker/stock.md
+      - FAQ: warehouse-worker/faq.md
+
+
+
+
