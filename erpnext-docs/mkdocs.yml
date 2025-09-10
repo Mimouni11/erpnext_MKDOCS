@@ -1,29 +1,24 @@
-site_name: ERPNext Store Documentation
+site_name: Documentation Magasin ERPNext
 theme:
   name: material
-
+  logo: images/logo.svg
+  favicon: images/logo.svg
 plugins:
   - glightbox
 
 nav:
   - Introduction: index.md
-  - Admin Guide:
-      - Overview: admin/overview.md
-      - Setup: admin/setup.md
-      - Daily Operations: admin/daily_ops.md
-  - Cashier Guide:
-      - Getting Started: cashier/getting_started.md
-      - Sales: cashier/sales.md
-      - Returns: cashier/return.md
+  - Guide Administrateur:
+      - Aperçu: admin/overview.md
+      - Configuration: admin/setup.md
+      - Opérations Quotidiennes: admin/daily_ops.md
+  - Guide Caissier:
+      - Premiers Pas: cashier/getting_started.md
+      - Ventes: cashier/sales.md
+      - Retours: cashier/return.md
       - FAQ: cashier/faq.md
-
-
-  - Warehouse Guide:
-      - Getting Started: warehouse-worker/getting_started.md
-      - Sales: warehouse-worker/sales.md
+  - Guide Employé Entrepôt:
+      - Premiers Pas: warehouse-worker/getting_started.md
+      - Ventes: warehouse-worker/sales.md
       - Stock: warehouse-worker/stock.md
       - FAQ: warehouse-worker/faq.md
-
-
-
-
