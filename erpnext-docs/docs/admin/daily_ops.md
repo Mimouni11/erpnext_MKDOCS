@@ -1,19 +1,16 @@
-# Daily Operations / Opérations Quotidiennes
+# Opérations Quotidiennes
 
-##  Workspace Principal
+L'interface principale vous donne accès à tous les outils nécessaires pour superviser et gérer les opérations quotidiennes du magasin.
 
-![Workspace Principal](../images/admin-workspace.png)  
-*Capture d’écran de l’interface principale de gestion du magasin.*
+![Interface principale - Accès rapide](../images/admin-workspace.png)
 
-Le **workspace principal** regroupe toutes les informations essentielles pour superviser et gérer les opérations du magasin au quotidien. Il est divisé en plusieurs sections pour un accès rapide et efficace.
+## Accès Rapide aux Fonctions Critiques
 
-### Accès Rapide
+La section "Accès rapide" centralise les informations essentielles pour le suivi quotidien :
 
-La section **Accès Rapide** permet au propriétaire ou à l’administrateur de visualiser et d’accéder directement aux informations les plus importantes :
+- **Articles** : Visualisation du stock disponible (3257 articles disponibles dans l'exemple)
+- **Commandes clients** : Suivi des commandes en cours avec indicateur de statut
+- **Tableau de bord** : Vue d'ensemble des performances
+- **Analyse des ventes** : Rapports et statistiques en temps réel
 
-- **Liste des articles** : accès rapide aux produits disponibles dans le magasin ou les entrepôts.  
-- **Commandes en cours / Historique** :  
-  - Les commandes actuellement en cours sont indiquées par un **indicateur visuel**.  
-  - L’historique des ventes permet de consulter les transactions passées rapidement.  
-- **Dashboard** : lien vers le tableau de bord pour une vue globale des ventes, stocks et indicateurs clés.  
-- **Analyse des ventes** : accès direct aux rapports analytiques pour suivre les performances du magasin.
+> Les indicateurs visuels (comme "0 To Deliver") vous alertent immédiatement sur les actions requises.
